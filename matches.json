@@ -1,0 +1,20 @@
+[
+  {
+    "descricao":"Oitavas de final - Liga dos Campeões",
+    "local":{
+      "nome":"Red Bull Arena",
+      "imagem":"https://www.redbullsalzburg.at/images/0010/1/1280/720/803/rbl/2019/1/28/c7d49a075965cd42b6a5eca348a749ab.jpg"
+    },
+    "mandante":{
+      "nome":"RB Salzburg",
+      "forca":3,
+      "imagem":"https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fsoccer%2F500%2F2790.png"
+    },
+    "visitante":{
+      "nome":"Bayern",
+      "forca":5,
+      "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
+    }
+    
+  }
+]
